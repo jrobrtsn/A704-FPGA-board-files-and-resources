@@ -1,0 +1,2 @@
+top：JTAG 9mm；usb typec 3.5mm; 其余器件高度小于3mm
+bottom: 排针 7mm; 其余器件高度小于3mm

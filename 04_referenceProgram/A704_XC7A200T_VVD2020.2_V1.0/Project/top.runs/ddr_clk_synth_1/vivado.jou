@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Feb  9 09:19:49 2025
+# Process ID: 508
+# Current directory: J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A200T_V1.0/Project/top.runs/ddr_clk_synth_1
+# Command line: vivado.exe -log ddr_clk.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ddr_clk.tcl
+# Log file: J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A200T_V1.0/Project/top.runs/ddr_clk_synth_1/ddr_clk.vds
+# Journal file: J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A200T_V1.0/Project/top.runs/ddr_clk_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ddr_clk.tcl -notrace

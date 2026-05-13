@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Feb  9 09:28:06 2025
+# Process ID: 17164
+# Current directory: J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A100T_V1.0/Project/top.runs/sys_clk_synth_1
+# Command line: vivado.exe -log sys_clk.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sys_clk.tcl
+# Log file: J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A100T_V1.0/Project/top.runs/sys_clk_synth_1/sys_clk.vds
+# Journal file: J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A100T_V1.0/Project/top.runs/sys_clk_synth_1\vivado.jou
+#-----------------------------------------------------------
+source sys_clk.tcl -notrace

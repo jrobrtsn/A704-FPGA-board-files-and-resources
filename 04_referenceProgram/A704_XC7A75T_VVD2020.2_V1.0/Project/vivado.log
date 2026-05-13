@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Feb  9 09:23:11 2025
+# Process ID: 17192
+# Current directory: J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A75T_V1.0/Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5096 J:\work\HY\Xilinx\A704\V1.0\PRJ\A704_XC7A75T_V1.0\Project\top.xpr
+# Log file: J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A75T_V1.0/Project/vivado.log
+# Journal file: J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A75T_V1.0/Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A75T_V1.0/Project/top.xpr
+INFO: [Project 1-313] Project file moved from 'J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A100T_V1.0/Project' since last save.
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A75T_V1.0/Project/top.gen/sources_1', nor could it be found using path 'J:/work/HY/Xilinx/A704/V1.0/PRJ/A704_XC7A100T_V1.0/Project/top.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Vivado/Vivado/2020.2/data/ip'.
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [Common 17-344] 'open_project' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Feb  9 09:23:40 2025...
